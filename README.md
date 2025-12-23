@@ -95,7 +95,7 @@ All KPIs are fully dynamic and respond to filters such as **date range**.
 
 ## 👤 Author
 
-**Karthik**  
+**MuniKarthik**  
 B.Tech CSE Student | Aspiring Data Analyst  
 Focused on building practical, business-oriented analytics projects using Power BI.
 
